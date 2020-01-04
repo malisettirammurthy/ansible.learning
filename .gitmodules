@@ -1,0 +1,3 @@
+[submodule "Mastering-Ansible-Third-Edition"]
+	path = Mastering-Ansible-Third-Edition
+	url = https://github.com/malisettirammurthy/Mastering-Ansible-Third-Edition.git
